@@ -15,6 +15,8 @@ Awesome list for binary
 - [Zydis - Fast and lightweight x86/x86-64 disassembler and code generation library](https://github.com/zyantific/zydis)
 - [E9Patch - A Powerful Static Binary Rewriter](https://github.com/GJDuck/e9patch)
 - [Renovate - a static binary rewriter](https://github.com/GaloisInc/renovate)
+- [RetroWrite -- Retrofitting compiler passes through binary rewriting](https://github.com/HexHive/retrowrite)
+- [ddisasm -  A fast and accurate disassembler](https://github.com/GrammaTech/ddisasm)
 
 
 ## Disassemblers
