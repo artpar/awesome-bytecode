@@ -14,7 +14,6 @@ Awesome list for binary
 ## Code-gen
 - [Zydis - Fast and lightweight x86/x86-64 disassembler and code generation library](https://github.com/zyantific/zydis)
 - [E9Patch - A Powerful Static Binary Rewriter](https://github.com/GJDuck/e9patch)
-tch)
 - [Renovate - a static binary rewriter](https://github.com/GaloisInc/renovate)
 
 
