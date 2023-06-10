@@ -1,9 +1,9 @@
 # Awesome Binary
 Awesome list for binary
-- [Papers](#papers)
-- [Disassemblers](#disassemblers)
-- [Code-gen](#code-gen)
-- [Rewrite](#rewrite)
+- [Papers](#Papers)
+- [Disassemblers](#Cisassemblers)
+- [Code-gen](#Code-gen)
+- [Rewrite](#Rewrite)
 
 ## Papers
 - [Binary Rewriting without Control Flow Recovery](https://www.comp.nus.edu.sg/~gregory/papers/e9patch.pdf)
