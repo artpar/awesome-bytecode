@@ -17,6 +17,7 @@ Awesome list for binary
 - [Renovate - a static binary rewriter](https://github.com/GaloisInc/renovate)
 - [RetroWrite -- Retrofitting compiler passes through binary rewriting](https://github.com/HexHive/retrowrite)
 - [ddisasm -  A fast and accurate disassembler](https://github.com/GrammaTech/ddisasm)
+- [gtirb - Intermediate Representation for Binary analysis and transformation](https://github.com/GrammaTech/gtirb)
 
 
 ## Disassemblers
