@@ -5,8 +5,8 @@ Awesome list for binary
 - [Debuggers](#Debuggers)
 - [Code-gen](#Code-gen)
 - [Rewrite](#Rewrite)
-- [Hex Viewers](#Hex-viewers)
-- [File detectors](#File detectors)
+- [Hex Viewers](#hex-viewers)
+- [File detectors](#file-detectors)
 
 ## Papers
 - [Binary Rewriting without Control Flow Recovery](https://www.comp.nus.edu.sg/~gregory/papers/e9patch.pdf)
