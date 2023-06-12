@@ -7,7 +7,7 @@ Awesome list for binary
 - [Rewrite](#Rewrite)
 - [Hex Viewers](#hex-viewers)
 - [File detectors](#file-detectors)
-- [Strutcture definition(#structure-definition)
+- [Strutcture definition](#structure-definition)
 
 ## Papers
 - [Binary Rewriting without Control Flow Recovery](https://www.comp.nus.edu.sg/~gregory/papers/e9patch.pdf)
