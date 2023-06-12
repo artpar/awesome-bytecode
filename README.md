@@ -50,8 +50,8 @@ Awesome list for binary
 - [Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby](https://github.com/kaitai-io/kaitai_struct)
 - [Apache daffodil - Open-source implementation of the Data Format Description Language to convert between fixed format data and XML, JSON, and other data structures](https://daffodil.apache.org/)
 - [Wuffs -  Wrangling Untrusted File Formats Safely](https://github.com/google/wuffs)
-- [Binary template repository for 010 Editor](010 Editor - Binary Template Repository)
-- [Grammars for Synalyze It! and Hexinator]([https://www.synalysis.net/](https://github.com/synalysis/Grammars)
+- [Binary template repository for 010 Editor](https://www.sweetscape.com/010editor/repository/templates/)
+- [Grammars for Synalyze It! and Hexinator](https://github.com/synalysis/Grammars)
 - [DFDL Schemas for Commercial and Scientific Data Formats](https://github.com/DFDLSchemas/)
 
 ## File detectors
