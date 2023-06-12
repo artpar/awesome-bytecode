@@ -63,3 +63,4 @@ Awesome list for binary
 - Golang: [Restruct: Rich binary de/serialization library for Golang](https://github.com/go-restruct/restruct)
 - Python: [Construct: Construct is a powerful declarative and symmetrical parser and builder for binary data](https://construct.readthedocs.io/en/latest/intro.html)
 - Python: [Hachoir is a Python library to view and edit a binary stream field by field](https://github.com/vstinner/hachoir)
+- Rust: [Nom: nom is a parser combinators library written in Rust](https://github.com/rust-bakery/nom)
