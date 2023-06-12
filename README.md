@@ -50,6 +50,9 @@ Awesome list for binary
 - [Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby](https://github.com/kaitai-io/kaitai_struct)
 - [Apache daffodil - Open-source implementation of the Data Format Description Language to convert between fixed format data and XML, JSON, and other data structures](https://daffodil.apache.org/)
 - [Wuffs -  Wrangling Untrusted File Formats Safely](https://github.com/google/wuffs)
+- [Binary template repository for 010 Editor](010 Editor - Binary Template Repository)
+- [Grammars for Synalyze It! and Hexinator]([https://www.synalysis.net/](https://github.com/synalysis/Grammars)
+- [DFDL Schemas for Commercial and Scientific Data Formats](https://github.com/DFDLSchemas/)
 
 ## File detectors
 - [Detect-It-Easy - Program for determining types of files for Windows, Linux and MacOS](https://github.com/horsicq/Detect-It-Easy)
@@ -59,3 +62,4 @@ Awesome list for binary
 - Rust: [Deku: a declarative binary reading and writing: bit-level, symmetric, serialization/deserialization library](https://github.com/sharksforarms/deku)
 - Golang: [Restruct: Rich binary de/serialization library for Golang](https://github.com/go-restruct/restruct)
 - Python: [Construct: Construct is a powerful declarative and symmetrical parser and builder for binary data](https://construct.readthedocs.io/en/latest/intro.html)
+- Python: [Hachoir is a Python library to view and edit a binary stream field by field](https://github.com/vstinner/hachoir)
