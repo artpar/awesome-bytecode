@@ -7,9 +7,11 @@ Awesome list for binary
 - [Rewrite](#Rewrite)
 - [Hex Viewers](#hex-viewers)
 - [File detectors](#file-detectors)
+- [Strutcture definition(#structure-definition)
 
 ## Papers
 - [Binary Rewriting without Control Flow Recovery](https://www.comp.nus.edu.sg/~gregory/papers/e9patch.pdf)
+- [Invertible syntax descriptions: unifying parsing and pretty printing](https://dl.acm.org/doi/10.1145/1863523.1863525)
 
 ## Code-gen
 - [Zydis - Fast and lightweight x86/x86-64 disassembler and code generation library](https://github.com/zyantific/zydis)
@@ -44,5 +46,13 @@ Awesome list for binary
 ## Hex-viewewrs
 - [ImHex - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.](https://github.com/WerWolv/ImHex)
 
+## Structure definition
+- [Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby](https://github.com/kaitai-io/kaitai_struct)
+
 ## File detectors
 - [Detect-It-Easy - Program for determining types of files for Windows, Linux and MacOS](https://github.com/horsicq/Detect-It-Easy)
+
+
+## Language specific libraries
+- Rust: [Deku: a declarative binary reading and writing: bit-level, symmetric, serialization/deserialization library](https://github.com/sharksforarms/deku)
+- Golang: [Rich binary (de)serialization library for Golang] (https://github.com/go-restruct/restruct)
