@@ -57,4 +57,5 @@ Awesome list for binary
 
 ## Language specific libraries
 - Rust: [Deku: a declarative binary reading and writing: bit-level, symmetric, serialization/deserialization library](https://github.com/sharksforarms/deku)
-- Golang: [Rich binary de/serialization library for Golang](https://github.com/go-restruct/restruct)
+- Golang: [Restruct: Rich binary de/serialization library for Golang](https://github.com/go-restruct/restruct)
+- Python: [Construct: Construct is a powerful declarative and symmetrical parser and builder for binary data](https://construct.readthedocs.io/en/latest/intro.html)
