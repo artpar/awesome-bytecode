@@ -48,6 +48,7 @@ Awesome list for binary
 
 ## Structure definition
 - [Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby](https://github.com/kaitai-io/kaitai_struct)
+- [Apache daffodil - Open-source implementation of the Data Format Description Language to convert between fixed format data and XML, JSON, and other data structures](https://daffodil.apache.org/)
 
 ## File detectors
 - [Detect-It-Easy - Program for determining types of files for Windows, Linux and MacOS](https://github.com/horsicq/Detect-It-Easy)
