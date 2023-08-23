@@ -37,6 +37,7 @@ Awesome list for binary
 ## Debuggers
 - [x64dbg - An open-source binary debugger for Windows, aimed at malware analysis and reverse engineering of executables](https://github.com/x64dbg/x64dbg)
 - [Ghidra is a software reverse engineering (SRE) framework](https://github.com/NationalSecurityAgency/ghidra)
+- [ProcessDump - Windows tool for dumping malware PE files from memory back to disk for analysis](https://github.com/glmcdona/Process-Dump)
 
 
 ## Rewrite
