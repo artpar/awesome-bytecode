@@ -63,5 +63,6 @@ Awesome list for binary
 - Rust: [Deku: a declarative binary reading and writing: bit-level, symmetric, serialization/deserialization library](https://github.com/sharksforarms/deku)
 - Golang: [Restruct: Rich binary de/serialization library for Golang](https://github.com/go-restruct/restruct)
 - Python: [Construct: Construct is a powerful declarative and symmetrical parser and builder for binary data](https://construct.readthedocs.io/en/latest/intro.html)
-- Python: [Hachoir is a Python library to view and edit a binary stream field by field](https://github.com/vstinner/hachoir)
+- Python: [Hachoir: Python library to view and edit a binary stream field by field](https://github.com/vstinner/hachoir)
+- Python: [pypcode: Python bindings to Ghidra's SLEIGH library for disassembly and lifting to P-Code IR](https://github.com/angr/pypcode)
 - Rust: [Nom: nom is a parser combinators library written in Rust](https://github.com/rust-bakery/nom)
