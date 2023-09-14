@@ -12,6 +12,7 @@ Awesome list for binary
 ## Papers
 - [Binary Rewriting without Control Flow Recovery](https://www.comp.nus.edu.sg/~gregory/papers/e9patch.pdf)
 - [Invertible syntax descriptions: unifying parsing and pretty printing](https://dl.acm.org/doi/10.1145/1863523.1863525)
+- [Awesome Binary Similarity Papers collection](https://github.com/SystemSecurityStorm/Awesome-Binary-Similarity)
 
 ## Code-gen
 - [Zydis - Fast and lightweight x86/x86-64 disassembler and code generation library](https://github.com/zyantific/zydis)
