@@ -1,5 +1,6 @@
-# Awesome Binary
-Awesome list for binary
+# Awesome Bytecode
+Awesome list of tools built around working with bytecode
+
 - [Papers](#Papers)
 - [Disassemblers](#Disassemblers)
 - [Debuggers](#Debuggers)
