@@ -34,6 +34,7 @@ Awesome list of tools built around working with bytecode
 - [Reko - Reko is a binary decompiler](https://github.com/uxmal/reko)
 - [REDasm - The OpenSource Disassembler](https://github.com/REDasmOrg/REDasm)
 - [Distorm - Powerful Disassembler Library For x86/AMD64](https://github.com/gdabah/distorm)
+- [Xed - Intel® X86 Encoder Decoder (Intel® XED)](https://github.com/intelxed/xed)
 
 
 ## Debuggers
@@ -45,6 +46,7 @@ Awesome list of tools built around working with bytecode
 ## Rewrite
 - [E9Patch - A Powerful Static Binary Rewriter](https://github.com/GJDuck/e9patch)
 - [Renovate - a static binary rewriter](https://github.com/GaloisInc/renovate)
+- [Pin - A Dynamic Binary Instrumentation Tool](https://www.intel.com/content/www/us/en/developer/articles/tool/pin-a-dynamic-binary-instrumentation-tool.html)
 
 ## Hex-viewewrs
 - [ImHex - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.](https://github.com/WerWolv/ImHex)
